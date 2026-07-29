@@ -4,7 +4,11 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-3B82F6?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/Framework-.NET%208.0%20WPF-8B5CF6?style=for-the-badge)
 
-**Zcwws Slide Macro** là phần mềm hỗ trợ kỹ thuật trượt lướt Hàn Quốc (**Korea Slide Technology**) tối ưu dành cho game **PUBG PC**. Phần mềm giúp người chơi thực hiện các pha trượt né đạn, đổi hướng linh hoạt và hồi tư thế chạy ngay lập tức với tốc độ phản hồi cực cao.
+<p align="center">
+  <img src="preview.png" alt="Zcwws Slide Macro UI Preview" width="420" />
+</p>
+
+**Zcwws Slide Macro** là phần mềm hỗ trợ kỹ thuật trượt lướt Hàn Quốc (**Korea Slide Technology**) tối ưu dành riêng cho game **PUBG PC**. Phần mềm giúp người chơi thực hiện các pha trượt né đạn, đổi hướng linh hoạt và hồi tư thế chạy ngay lập tức với tốc độ phản hồi cực cao.
 
 ---
 
