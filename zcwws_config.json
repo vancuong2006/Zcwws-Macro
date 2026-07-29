@@ -1,0 +1,13 @@
+{
+  "SlideMacroEnabled": true,
+  "RequireSprint": true,
+  "TriggerVk": 67,
+  "TriggerText": "[ C ]",
+  "CrouchVk": 162,
+  "CrouchText": "[ LeftCtrl ]",
+  "SlideDelayMs": 25,
+  "SlideMode": 0,
+  "SoundAlertEnabled": true,
+  "OverlayLedEnabled": true,
+  "MinimizeToTray": false
+}

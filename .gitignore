@@ -1,3 +1,6 @@
+*.cs
+*.xaml
+*.csproj
 bin/
 obj/
 .vs/
