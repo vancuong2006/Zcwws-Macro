@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xK8yF2Ybztg=",
+  "success": true,
+  "projectFilePath": "d:\\CNTT - CUONG\\MatrixNoKey(Cr4ck)\\MatrixNoKey(Cr4ck)\\Zcwws\\Zcwws.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zancu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.29\\microsoft.net.illink.tasks.8.0.29.nupkg.sha512",
+    "C:\\Users\\zancu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.29\\microsoft.netcore.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\zancu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.29\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\zancu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.29\\microsoft.aspnetcore.app.runtime.win-x64.8.0.29.nupkg.sha512",
+    "C:\\Users\\zancu\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.29\\microsoft.netcore.app.crossgen2.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
